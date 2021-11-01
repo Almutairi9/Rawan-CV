@@ -1,0 +1,48 @@
+body
+{ background-color: rgb(233, 190, 211);  }
+
+ .cirds
+ {
+   display: flex;
+   justify-content: flex-start;
+ }
+ .headrcirds
+ {
+     color: black; 
+ }
+ 
+ .texts
+ {
+     background-color: white;
+    margin-left: 10px;
+     width: 50%;
+     padding-left: 10px;
+ }
+ .skills-list
+ {
+    list-style: none; 
+    display: inline; 
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px; 
+ } 
+ 
+ li
+ {
+ display: inline-block;
+ background-color: rgb(29,134, 29);
+ border-radius: 8%;
+ padding: 10px;
+ color: white;
+ font-family: Arial, ;
+ font-size: 20px;
+ }
+ 
+ li span 
+ {
+  background-color: rgb(29,134, 29);
+  color: white;
+  font-family: Arial;
+  font-size: 20px;  
+ }
+ 
